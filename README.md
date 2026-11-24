@@ -1,6 +1,6 @@
 # mittal-24-FFHQ-DDPM-Diffusion-Model 
 This link is for downloading dataset
-https://drive.google.com/drive/folders/1LeEaAy7Bc66tmabL5CsYYBqjVBoJ3NGW?usp=drive_link
+**https://drive.google.com/file/d/1gWbnSSgJvQ61PE3-8rH0ZP7YEerMtaGY/view?usp=sharing**
 # FFHQ Face Image Generation using DDPM
 
 ## Project Overview
